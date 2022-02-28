@@ -10,3 +10,4 @@ variable "bucket-count" {
   description = "Number of buckets to be created"
 }
 
+variable "aws_s3_bucket_data" {}
